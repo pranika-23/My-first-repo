@@ -1,0 +1,28 @@
+This repository contains simple explanations
+of basic programming concepts in python 
+VARIABLES 
+  it is used to store values 
+
+x = 10
+name = "Python"
+
+LOOPS
+  Loops are used to repeat a block of code.
+
+for i in range(5):
+    print(i)
+
+OPERATIONS 
+  Operators are used to perform operations on variables.
+Types of operators:
+Arithmetic: +, -, *, /
+Comparison: ==, !=, >
+Logical: and, or, not
+CONDITIONAL STATEMENTS
+  Used to make decisions in a program.
+
+age = 18
+if age >= 18:
+    print("You are eligible to vote")
+else:
+    print("Not eligible")
